@@ -1,0 +1,27 @@
+{
+  "name": "ie-alert",
+  "version": "1.0.0",
+  "description": "IE Alert is a jQuery plugin that shows a well designed modal box to the visitor who's trying to view your site with an older version of Internet Explorer browser, this modal box encourages your visitors to upgrade their browser for a better experience using your site.",
+  "main": "theplugin/iealert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfournier/ie-alert.git"
+  },
+  "keywords": [
+    "iealert",
+    "iexplorer",
+    "alert",
+    "legacy",
+    "old",
+    "browser"
+  ],
+  "author": "David Nemes @nmsdvid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfournier/ie-alert/issues"
+  },
+  "homepage": "http://nmsdvid.com/iealert/"
+}
